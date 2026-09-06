@@ -50,7 +50,7 @@ TypeScript
    ↓
 Advanced State Management
    ↓
- Translation Projects
+i18next for Translation
 ```
 
 I'm currently focusing on:
