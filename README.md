@@ -65,18 +65,6 @@ I'm currently focusing on:
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-code4&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-code4&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 
 ## 🤝 Let's Connect
 <p> 
