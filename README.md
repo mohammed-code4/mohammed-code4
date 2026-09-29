@@ -2,9 +2,9 @@
 
 ### Front-End Developer | React.js 
 
-I'm a **Front-End Developer** passionate about building modern, responsive, and user-friendly web applications.
-
-Currently, I'm focused on improving my skills in **React.js and TypeScript**, while building real-world projects and exploring modern front-end architecture and best practices.
+Junior Front-end Developer with hands-on experience in building responsive and interactive web interfaces using
+HTML, CSS, JavaScript, and React. 
+Eager to join a dynamic team to contribute to high-quality digital solutions and grow as a developer.
 
 ---
 
