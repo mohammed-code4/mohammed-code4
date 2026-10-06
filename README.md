@@ -1,80 +1,32 @@
-# Hi, I'm Mohammed Hussein 👋
+# Hi, I'm Mohammed 👋
 
-### Front-End Developer | React.js 
+I'm a software developer passionate about building modern, efficient, and user-friendly digital products.
 
-Junior Front-end Developer with hands-on experience in building responsive and interactive web interfaces using
-HTML, CSS, JavaScript, and React. 
-Eager to join a dynamic team to contribute to high-quality digital solutions and grow as a developer.
+## About Me
+- 🧠 Focused on web development and software engineering
+- 💻 Interested in JavaScript, TypeScript, React, and modern tooling
+- 🚀 Always learning and building projects that solve real-world problems
+- 📚 Enjoying clean architecture, best practices, and scalable solutions
 
----
+## Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 About Me
+## Current Focus
+- Building clean and scalable web applications
+- Improving frontend development skills
+- Learning new tools and best practices
+- Contributing to meaningful open-source or personal projects
 
-- 💻 Front-End Developer focused on **React.js**
-- 🧩 Interested in building scalable and maintainable front-end applications
-- 🎨 I enjoy creating clean, responsive, and user-friendly interfaces
-- 🔥 Always learning, building, and improving
+## Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/mohammed-hussein-9503a7410)
+- [Email](mailto:mohammed.hussain.code@gmail.com)
 
----
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-dev4&show_icons=true&theme=dark)
 
-## 🛠️ Tech Stack
-
-### Front-End
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
-</p>
-
-### Libraries & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vite,npm" />
-</p>
-
-- React Router
-- TanStack React Query
-- React Hook Form
-- Zod
-- Axios
-- shadcn/ui
-- redux-toolkit
-
----
-
-## 📚 Currently Learning
-
-```text
-React.js
-   ↓
-TypeScript
-   ↓
-Advanced State Management
-   ↓
-i18next for Translation
-```
-
-I'm currently focusing on:
-
-- ⚛️ Advanced React patterns
-- 🟦 TypeScript
-- 📦 State & server-state management
-- ✅ Form validation
-- 🎨 Modern UI systems
-- 🚀 Performance & clean code
-
----
-
-
-
-## 🤝 Let's Connect
-<p> 
- <a href="https://www.linkedin.com/in/mohammed-hussein-9503a7410">
-    LinkedIn Profile
-  </a>
-</p>
-
----
-
-### 💡 "Learn. Build. Improve. Repeat."
-
-Thanks for visiting my profile! 🚀
+## Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=mohammed-dev4&color=brightgreen)
