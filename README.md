@@ -27,6 +27,3 @@ I'm a software developer passionate about building modern, efficient, and user-f
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-dev4&show_icons=true&theme=dark)
-
-## Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=mohammed-dev4&color=brightgreen)
