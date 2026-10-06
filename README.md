@@ -46,25 +46,7 @@ I enjoy turning ideas and designs into clean, reusable, and scalable interfaces 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📌 Featured Projects
-
-### 📝 Posts App
-
-A social-media-style application built with React that allows users to browse posts, view post details, comments, and likes.
-
-**Tech:** React.js, React Router, TanStack Query, Axios, Tailwind CSS
-
-### 🏥 Cure Team
-
-A healthcare-focused web application built with React and TypeScript, focusing on reusable components, responsive UI, forms, validation, and modern frontend architecture.
-
-**Tech:** React, TypeScript, Tailwind CSS, shadcn/ui, React Hook Form, Zod, React Query, Redux Toolkit, Axios
-
-### 🛒 Grocery Team
-
-A grocery/e-commerce frontend project built with React and TypeScript, focusing on building reusable UI components and handling application state and API data.
-
-**Tech:** React, TypeScript, Tailwind CSS, React Query, Redux Toolkit
+ 
 
 ## 🎯 Current Focus
 
